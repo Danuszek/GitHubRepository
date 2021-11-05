@@ -2,6 +2,7 @@
        PROGRAM-ID.     HELLO.
       *First change
       *Second change
+      *thirs change
        PROCEDURE DIVISION.
            DISPLAY "Hello Remote GitHub!".
            STOP RUN.
