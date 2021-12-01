@@ -1,9 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID.     HELLO.
-      *First change
-      *Second change
-      *third change
-      *fourth change
+
        PROCEDURE DIVISION.
            DISPLAY "Hello Remote GitHub!".
            STOP RUN.
