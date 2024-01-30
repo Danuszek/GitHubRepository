@@ -3,4 +3,4 @@
                 05 FIELD2    PIC 9.
        77  NEW-FIELD         PIC X.
            COPY COPY2.
-           COPY COPY3.
+
