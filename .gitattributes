@@ -3,7 +3,7 @@
 
 # file encodings
 *.cbl zos-working-tree-encoding=utf-8 git-encoding=utf-8
-*.cpy zos-working-tree-encoding=utf-8 git-encoding=utf-8
+*.cpy zos-working-tree-encoding=IBM-930 git-encoding=utf-8
 *.groovy zos-working-tree-encoding=utf-8 git-encoding=utf-8
 #*.cpy zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
 #*.cpy zos-working-tree-encoding=ibm-930 git-encoding=MS932
