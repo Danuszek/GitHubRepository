@@ -4,6 +4,7 @@
 
        ENVIRONMENT DIVISION.
       *comment 1
+      *comment 2
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
