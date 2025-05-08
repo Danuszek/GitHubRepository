@@ -12,7 +12,7 @@
 
        PROCEDURE DIVISION.
            MOVE ZERO TO PARM-VALUE.
-
+      *
        STATIC-CALL.
            CALL 'CALLCO2' USING CALLPARM
            END-CALL
