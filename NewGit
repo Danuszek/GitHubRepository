@@ -3,7 +3,7 @@
        AUTHOR. DANTE.
 
        ENVIRONMENT DIVISION.
-
+      *Friday comment 1
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
