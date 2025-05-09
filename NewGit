@@ -6,6 +6,9 @@
       *Friday comment 1
       *Friday comment 2 from git
       *comment 3 from IDz, should go to new branch1
+      *comment 4 from Git
+      *comment 5
+      *comment 6 from IDz mlain checked out
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
