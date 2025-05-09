@@ -5,6 +5,7 @@
        ENVIRONMENT DIVISION.
       *Friday comment 1
       *Friday comment 2 from git
+      *comment 3 from IDz, should go to new branch1
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
