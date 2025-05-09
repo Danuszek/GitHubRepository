@@ -4,6 +4,7 @@
 
        ENVIRONMENT DIVISION.
       *Friday comment 1
+      *Friday comment 2 from git
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
